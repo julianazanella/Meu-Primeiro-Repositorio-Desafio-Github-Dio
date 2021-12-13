@@ -5,5 +5,5 @@ Nesse repositório colocarei minhas anotações sobre o curso de Introdução ao
 
 
 ## Links Úteis
-[Sintaxe básica Markdown] (markdownguide.org/basic-syntax/)
+[Sintaxe básica Markdown](markdownguide.org/basic-syntax/)
 
