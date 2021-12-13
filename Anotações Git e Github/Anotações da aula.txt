@@ -1,0 +1,18 @@
+- Git é um sistema de controle de versão distruído seguro
+- O SHA é um processo importante de segurança que efetua a criptografia dos arquivos
+- Git bash é um emulador do git no windows. É o ambiente onde é possível criar e modificar os arquivos que serão integrados ao Github
+- Git é um repositório local e o Github um repositório remoto
+- Site para baixar o git: https://git-scm.com/downloads
+
+Comandos importantes no Git Bash:
+- O comando DIR/LS são usados, respectivamente, no windows e no linux para exibir diretórios
+- O comando cd é utilizado para retroceder as pastas de pesquisa
+- O comando clear ou ctrl+l são usados para limpar a tela
+- Ao utilizar o comando mkdir é possível criar uma nova pasta no ambiente onde se está trabalhando
+- Ao utilizar o comando echo> é possível criar um novo arquivo dentro de uma pasta
+- O commit é um importante processo de segurança. Não tem como alterar um arquivo sem no histórico
+- O comando git init cria um novo repositório do git
+- O comando git add adiciona as alterações feitas no git bash para serem inclusas no proximo commit
+- O comando git status verifica se existem alterações no diretorio
+- O comando git clone copia repositorio vindo do Github
+- O comando git commit integra as alterações feitas no repositório local para o repositório remoto
