@@ -1,0 +1,1 @@
+## Programa que efetua a leitura de duas notas do aluno e calcula a média, informando se o mesmo foi aprovado, ficou em recuperação ou foi reprovado.

@@ -1,0 +1,1 @@
+## Programa simples que efetua o cálculo de desconto em compras com pagamentos efetuados à vista.

@@ -1,0 +1,16 @@
+C:\Users\USer\Desktop\Testando conhecimentos\Sorteio\bin\Debug\net5.0\Sorteio.exe
+C:\Users\USer\Desktop\Testando conhecimentos\Sorteio\bin\Debug\net5.0\Sorteio.deps.json
+C:\Users\USer\Desktop\Testando conhecimentos\Sorteio\bin\Debug\net5.0\Sorteio.runtimeconfig.json
+C:\Users\USer\Desktop\Testando conhecimentos\Sorteio\bin\Debug\net5.0\Sorteio.runtimeconfig.dev.json
+C:\Users\USer\Desktop\Testando conhecimentos\Sorteio\bin\Debug\net5.0\Sorteio.dll
+C:\Users\USer\Desktop\Testando conhecimentos\Sorteio\bin\Debug\net5.0\ref\Sorteio.dll
+C:\Users\USer\Desktop\Testando conhecimentos\Sorteio\bin\Debug\net5.0\Sorteio.pdb
+C:\Users\USer\Desktop\Testando conhecimentos\Sorteio\obj\Debug\net5.0\Sorteio.csproj.AssemblyReference.cache
+C:\Users\USer\Desktop\Testando conhecimentos\Sorteio\obj\Debug\net5.0\Sorteio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USer\Desktop\Testando conhecimentos\Sorteio\obj\Debug\net5.0\Sorteio.AssemblyInfoInputs.cache
+C:\Users\USer\Desktop\Testando conhecimentos\Sorteio\obj\Debug\net5.0\Sorteio.AssemblyInfo.cs
+C:\Users\USer\Desktop\Testando conhecimentos\Sorteio\obj\Debug\net5.0\Sorteio.csproj.CoreCompileInputs.cache
+C:\Users\USer\Desktop\Testando conhecimentos\Sorteio\obj\Debug\net5.0\Sorteio.dll
+C:\Users\USer\Desktop\Testando conhecimentos\Sorteio\obj\Debug\net5.0\ref\Sorteio.dll
+C:\Users\USer\Desktop\Testando conhecimentos\Sorteio\obj\Debug\net5.0\Sorteio.pdb
+C:\Users\USer\Desktop\Testando conhecimentos\Sorteio\obj\Debug\net5.0\Sorteio.genruntimeconfig.cache

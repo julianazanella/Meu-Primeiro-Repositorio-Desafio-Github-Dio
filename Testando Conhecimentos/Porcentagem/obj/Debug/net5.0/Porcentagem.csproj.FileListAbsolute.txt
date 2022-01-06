@@ -1,0 +1,32 @@
+C:\Users\USer\Desktop\Programinhas\Porcentagem\bin\Debug\net5.0\Porcentagem.exe
+C:\Users\USer\Desktop\Programinhas\Porcentagem\bin\Debug\net5.0\Porcentagem.deps.json
+C:\Users\USer\Desktop\Programinhas\Porcentagem\bin\Debug\net5.0\Porcentagem.runtimeconfig.json
+C:\Users\USer\Desktop\Programinhas\Porcentagem\bin\Debug\net5.0\Porcentagem.runtimeconfig.dev.json
+C:\Users\USer\Desktop\Programinhas\Porcentagem\bin\Debug\net5.0\Porcentagem.dll
+C:\Users\USer\Desktop\Programinhas\Porcentagem\bin\Debug\net5.0\ref\Porcentagem.dll
+C:\Users\USer\Desktop\Programinhas\Porcentagem\bin\Debug\net5.0\Porcentagem.pdb
+C:\Users\USer\Desktop\Programinhas\Porcentagem\obj\Debug\net5.0\Porcentagem.csproj.AssemblyReference.cache
+C:\Users\USer\Desktop\Programinhas\Porcentagem\obj\Debug\net5.0\Porcentagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USer\Desktop\Programinhas\Porcentagem\obj\Debug\net5.0\Porcentagem.AssemblyInfoInputs.cache
+C:\Users\USer\Desktop\Programinhas\Porcentagem\obj\Debug\net5.0\Porcentagem.AssemblyInfo.cs
+C:\Users\USer\Desktop\Programinhas\Porcentagem\obj\Debug\net5.0\Porcentagem.csproj.CoreCompileInputs.cache
+C:\Users\USer\Desktop\Programinhas\Porcentagem\obj\Debug\net5.0\Porcentagem.dll
+C:\Users\USer\Desktop\Programinhas\Porcentagem\obj\Debug\net5.0\ref\Porcentagem.dll
+C:\Users\USer\Desktop\Programinhas\Porcentagem\obj\Debug\net5.0\Porcentagem.pdb
+C:\Users\USer\Desktop\Programinhas\Porcentagem\obj\Debug\net5.0\Porcentagem.genruntimeconfig.cache
+C:\Users\USer\Desktop\Testando conhecimentos\Porcentagem\bin\Debug\net5.0\Porcentagem.exe
+C:\Users\USer\Desktop\Testando conhecimentos\Porcentagem\bin\Debug\net5.0\Porcentagem.deps.json
+C:\Users\USer\Desktop\Testando conhecimentos\Porcentagem\bin\Debug\net5.0\Porcentagem.runtimeconfig.json
+C:\Users\USer\Desktop\Testando conhecimentos\Porcentagem\bin\Debug\net5.0\Porcentagem.runtimeconfig.dev.json
+C:\Users\USer\Desktop\Testando conhecimentos\Porcentagem\bin\Debug\net5.0\Porcentagem.dll
+C:\Users\USer\Desktop\Testando conhecimentos\Porcentagem\bin\Debug\net5.0\ref\Porcentagem.dll
+C:\Users\USer\Desktop\Testando conhecimentos\Porcentagem\bin\Debug\net5.0\Porcentagem.pdb
+C:\Users\USer\Desktop\Testando conhecimentos\Porcentagem\obj\Debug\net5.0\Porcentagem.csproj.AssemblyReference.cache
+C:\Users\USer\Desktop\Testando conhecimentos\Porcentagem\obj\Debug\net5.0\Porcentagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USer\Desktop\Testando conhecimentos\Porcentagem\obj\Debug\net5.0\Porcentagem.AssemblyInfoInputs.cache
+C:\Users\USer\Desktop\Testando conhecimentos\Porcentagem\obj\Debug\net5.0\Porcentagem.AssemblyInfo.cs
+C:\Users\USer\Desktop\Testando conhecimentos\Porcentagem\obj\Debug\net5.0\Porcentagem.csproj.CoreCompileInputs.cache
+C:\Users\USer\Desktop\Testando conhecimentos\Porcentagem\obj\Debug\net5.0\Porcentagem.dll
+C:\Users\USer\Desktop\Testando conhecimentos\Porcentagem\obj\Debug\net5.0\ref\Porcentagem.dll
+C:\Users\USer\Desktop\Testando conhecimentos\Porcentagem\obj\Debug\net5.0\Porcentagem.pdb
+C:\Users\USer\Desktop\Testando conhecimentos\Porcentagem\obj\Debug\net5.0\Porcentagem.genruntimeconfig.cache
